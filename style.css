@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to left, rgb(117, 7, 207), rgb(43, 144, 151));
+}
+
+.main {
+    width: 200px;
+    background-color: rgb(41, 15, 75);
+    border: 1px solid rgb(19, 10, 138);
+    padding: 40px 100px;
+    color: cornsilk;
+    border-radius: 50px;
+    margin: 50px 100px;
+}
+
+.main h1 {
+    color: orangered;
+    font-size: 25px;
+}
+
+.main input {
+    padding:5px 20px 5px 2px;
+    margin-bottom: 10px;
+    background: cornsilk;
+    border-radius: 5px;
+}
+.main ul {
+    font-weight: bold;
+}
+
+.enter-btn {
+    padding: 3px 144px 5px 0;
+    margin-bottom: 10px;
+    background: rgb(42, 185, 196);
+    border: 1px solid rgb(19, 10, 138);
+    border-radius: 5px;
+    color: cornsilk;
+
+}
+
+.enter-btn:hover {
+    background: rgb(42, 134, 196);
+}
+
+.sync-btn {
+    margin-bottom: 10px;
+    background: rgb(196, 42, 183);
+    border: 1px solid rgb(19, 10, 138);
+    border-radius: 5px;
+    color: cornsilk
+}
+
+.sync-btn:hover {
+    background: rgb(170, 19, 157);;
+}
+
+
